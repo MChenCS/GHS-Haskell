@@ -2,5 +2,5 @@ main :: IO()
 main = do
     let list1 = [9,7]
     let list2 = [3,1]
-    let result = list2 ++ 12 : 18 : list1
+    let result = -- Write your code here
     print result
